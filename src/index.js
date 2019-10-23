@@ -1,4 +1,5 @@
 const { getRandomWordSync, getRandomWord } = require('word-maker');
+const fs = require('fs');
 
 console.log('It works!');
 
